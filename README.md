@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @newasad real name asad
-- 👀 I’m interested in programing 
+- 👀 I’m interested in programming 
 - 🌱 I’m currently learning full Stack bootcamp using javascript react node.js mongoDB
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for may first job and challenge ...
 - 📫 How to reach me ...
 
 <!---
