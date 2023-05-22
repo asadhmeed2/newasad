@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @newasad real name asad
 - 👀 I’m interested in programming 
+-   i have a one year experience as a frontend developer
 - 🌱 graduated from Appleseeds full Stack bootcamp which in it I learned javascript react node.js mongoDB
 - 💞️ I’m looking for may next challenge ...
 - 📫 How to reach me ...
